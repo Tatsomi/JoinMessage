@@ -1,0 +1,7 @@
+name: JoinMessage
+version: 1.0.0
+api: 5.0.0
+main: Tatsomi\JoinMessage\Main
+author: Tatsomi
+website: https://github.com/Tatsomi
+prefix: JM
